@@ -1,4 +1,4 @@
-import { updateStatus } from "../actions";
+import { updateStatus } from "./actions";
 import Image from "next/image";
 
 type Report = {
